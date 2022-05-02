@@ -1,0 +1,68 @@
+{
+    "kids": [
+
+        {
+            "book name" : "diary of a wimpy kid",
+            "cover": "hard",
+            "author name": "jeff kinney",
+            "price": "42 nis"
+        },
+        {
+            "book name": "clever kids colouring book",
+            "cover": "soft",
+            "author name": "chris dickson",
+            "price": "50 nis"
+        },
+        {
+            "book name": "the kids book of crosswords",
+            "cover": "soft",
+            "author name": "gareth moore",
+            "price": "28 nis"
+        }
+
+        ],
+    "drama": [
+        {
+            "book name": "the methuen drama book of duologues",
+            "cover": "hard",
+            "author name": "anne harvey",
+            "price": "92 nis"
+        },
+        {
+            "book name": "spring awakening",
+            "cover": "soft",
+            "author name": "frank wedekind",
+            "price": "34 nis"
+        },
+        {
+            "book name": "the methuen drama book of modern",
+            "cover": "soft",
+            "author name": "chrys salt",
+            "price": "81 nis"
+        }
+        
+        ],
+    "cars": [
+        {
+            "book name": "the classic car book",
+            "cover": "hard",
+            "author name": "dk",
+            "price": "138 nis"
+        },
+        {
+            "book name": "dk eyewitness books: car",
+            "cover": "soft",
+            "author name": "richard sutton",
+            "price": "60 nis"
+        },
+        {
+            "book name": "cars & curves",
+            "cover": "hard",
+            "author name": "stefan bogner",
+            "price": "182 nis"
+        }
+        ]
+        
+
+}
+
