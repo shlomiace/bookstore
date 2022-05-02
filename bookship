@@ -1,0 +1,26 @@
+{
+ "delivery companys" : [
+     {
+         "company name" : "israel post",
+         "working days" : ["sunday", "monday", "tuesday", "wednesday", "thursday"],
+         "cost fee" : "10 nis",
+         "delivery time" :  "30 days" 
+    }, {
+        "company name" : "DHL",
+        "working days" : ["monday", "tuesday", "wednesday", "thursday", "friday"],
+        "cost fee" : "35 nis",
+        "delivery time" : "7 days"
+
+    }, {
+        "company name" : "UPS",
+        "working days" : ["sunday", "monday", "wednesday", "thursday", "friday"],
+        "cost fee" : "50 nis",
+        "delivery time" : "3 days"
+    }, {
+        "company name" : "fedex",
+        "working days" : ["sunday", "monday", "tuesday", "thursday", "friday"],
+        "cost fee" : "27 nis",
+        "delivery time" : "14 days"
+    }
+ ]   
+}
